@@ -1,0 +1,38 @@
+
+body{
+    font-family: Helvetica;
+    text-align: center;
+    background: url("http://www.clipartbest.com/cliparts/yco/e6j/ycoe6jKcE.jpeg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+
+    color: white;
+}
+
+input {
+    border:0;
+    padding: 12px;
+    font-size: 18px;
+}
+
+input[type="submit"]{
+    background: limegreen;
+    color: black;
+    font-size: 18px;
+}
+
+.section{
+
+}
+
+#btnMale{
+
+}
+
+p{
+
+    font-size: 38px;
+    color:pink;
+}
